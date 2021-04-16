@@ -56,12 +56,12 @@ th {
 <body>
 
 <!-- Sidebar/menu -->
-<nav class="w3-sidebar w3-aqua w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
-    <div class="w3-container w3-dark-grey">
+<nav class="w3-sidebar w3-orange w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+    <div class="w3-container w3-dark-aqua">
     <h4>Menu</h4>
     </div>
     <img src="images/payroll.png" alt="Snow" style="width:100%;padding-top: 15px;padding-bottom: 15px">
-    <div class="w3-container w3-dark-grey">
+    <div class="w3-container w3-black">
     <h4>Payroll system</h4>
     </div>
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
@@ -109,7 +109,7 @@ th {
 
   <!-- Header -->
       
-      <div class="w3-display-container w3-text-blue" style="font-size: 50px">
+      <div class="w3-display-container w3-text-orange" style="font-size: 50px">
           <img src="images/banner.jpg" alt="Lights" style="width:100%" style="height: 150px">
           <div class="w3-display-middle w3-large" > <h1 >Welcome to Payroll system</h1></div>
       </div>
@@ -142,7 +142,7 @@ th {
   </div>
 
 <!-- W3.CSS Container -->
-    <div class="w3-dark-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Reference <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3school</a></p></div>
+    <div class="w3-dark-grey w3-container w3-padding-32" style="margin-top:310px;padding-right:58px"><p class="w3-right">Reference <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3school</a></p></div>
 
 
 <script>
